@@ -1,6 +1,10 @@
-# citations
+# citations [website](https://anvaka.github.io/citations/)
 
-Find the most cited pages within given categories.
+Find the most cited pages within given categories. Unlike [scholar.google.com](https://scholar.google.com/)
+or [www.semanticscholar.org](https://www.semanticscholar.org) we always sort results in decreasing order
+of citations.
+
+[![demo](https://i.imgur.com/73OpMiR.gif)](https://anvaka.github.io/citations/)
 
 ## Data
 
