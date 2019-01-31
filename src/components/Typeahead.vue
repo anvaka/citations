@@ -96,6 +96,8 @@
 
 .suggestion:hover, .suggestion.selected {
   background-color: #eee;
+  color: inherit;
+  border-bottom: 1px solid transparent;
 }
 
 .suggestions {
