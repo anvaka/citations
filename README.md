@@ -11,7 +11,7 @@ of citations.
 Data comes from https://www.semanticscholar.org/ - they do list their own sources and release the entire corpus
 with over [39 million published research papers](http://labs.semanticscholar.org/corpus/) for non-commercial use.
 
-I downloaded the corpus, counted every citation, then grouped papers by the keyword, and made this website.
+I downloaded the corpus, counted every citation, then grouped papers by the keyword, and made this website. To see the actual code and reproduce the results, see [process-data](https://github.com/anvaka/citations/tree/master/process-data) folder.
 
 I hope you find it useful in your exploration of knowledge.
 
