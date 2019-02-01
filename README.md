@@ -4,7 +4,7 @@ Find the most cited pages within given categories. Unlike [scholar.google.com](h
 or [www.semanticscholar.org](https://www.semanticscholar.org) we always sort results in decreasing order
 of citations.
 
-[![demo](https://i.imgur.com/73OpMiR.gif)](https://anvaka.github.io/citations/)
+[![demo](https://i.imgur.com/S7g5kuO.gif)](https://anvaka.github.io/citations/)
 
 ## Data
 
