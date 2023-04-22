@@ -5,7 +5,7 @@ cd ./dist
 git init
 git add .
 git commit -m 'push to gh-pages'
-git push --force git@github.com:anvaka/citations.git master:gh-pages
+git push --force git@github.com:anvaka/citations.git main:gh-pages
 cd ../
 git tag `date "+release-%Y%m%d%H%M%S"`
 git push --tags
